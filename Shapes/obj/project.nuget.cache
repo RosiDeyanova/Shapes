@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SMYp+ZZVd4YH2HowLJaDEkk5NhVNiflSUu7ijN4uZMzfJ0GtvOLy1fdgWmQJClh4ZHnmer6SO6CLTIlTVMoWA==",
+  "success": true,
+  "projectFilePath": "E:\\FMI\\ShapesNEW\\Shapes\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rosi Deyanova\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+E:\FMI\ShapesNEW\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.AssemblyReference.cache
+E:\FMI\ShapesNEW\Shapes\Shapes\obj\Debug\net5.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\FMI\ShapesNEW\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfoInputs.cache
+E:\FMI\ShapesNEW\Shapes\Shapes\obj\Debug\net5.0\Shapes.AssemblyInfo.cs
+E:\FMI\ShapesNEW\Shapes\Shapes\obj\Debug\net5.0\Shapes.csproj.CoreCompileInputs.cache
